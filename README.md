@@ -18,7 +18,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00A114&lines=Hi%2C+This+is+Red+Eagle....)](https://git.io/typing-svg)
 
-![](https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/Eagle.gif)
+![](https://github.com//its-red-eagle/blob/main/assets/Eagle.gif)
 ![](https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/Eagle.gif)
 ![](https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/Eagle.gif)
 ![](https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/Eagle.gif)
@@ -48,18 +48,18 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_red_eagle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_red_eagle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/its-red-eagle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-red-eagle" height="30" width="40" /></a>
-<a href="https://instagram.com/vikash_127.0.0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its-red-eagle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amaresh-muddebihal-247a82215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-red-eagle" height="30" width="40" /></a>
+<a href="https://instagram.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its-red-eagle" height="30" width="40" /></a>
 </p>
 
 <pre>
-its-red-eagle@github.com
+https://github.com/AmareshMuddebihal
 --------------------------------------------------------------------------------
-<b>Me         :</b>  Software Developer, Competetive Programmer
+<b>Me         :</b>  Competetive Programmer
 <b>Languages  :</b>  
 <b>Frameworks :</b>  
 <b>Interests  :</b>  
-<b>Education  :</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> B.Tech. <b>(Computer Science & Information Technology) (2020-2024)</b>
+<b>Education  :</b>  AMARESH</a> B.Tech. <b>( Information Technology) (2020-2024)</b>
 --------------------------------------------------------------------------------
 <!--<b>Featured Projects 🚀</b>
 <a href="https://youtemy.tech/">YouTemy<a>  <a href="https://music-expanse.herokuapp.com/">Music Expanse<a>
@@ -71,7 +71,7 @@ its-red-eagle@github.com
 <a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamallove.github.io">rosekamallove.github.io<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>-->
 
 <b>Let's Get in Touch ✨</b>
-<a href="https://linkedin.com/in/its-red-eagle/">LinkedIn</a>   <a href="mailto:private.vikash64patel@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/amaresh-muddebihal-247a82215">LinkedIn</a>   <a href="mailto:private.amareshsm123@gmail.com">Email</a>
 </pre>
 
 <details>	
