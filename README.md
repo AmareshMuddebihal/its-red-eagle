@@ -22,6 +22,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 ![](https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/Eagle.gif)
 ![](https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/Eagle.gif)
 ![](https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/Eagle.gif)
+![](https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/Eagle.gif)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
