@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**its-red-eagle/its-red-eagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AMARESH MUDDEBIHAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
